@@ -1,5 +1,5 @@
 # About
-This is simply a lmgtfy.com remake without ads. 
+This is simply a lmgtfy.com remake without ads.
+I love all of you guys
+iform iran 
 
-# How do I use it?
-Simply visit http://arinerron.github.io/re-lmgtfy/ and type in the info it asks for to generate a re-lmgtfy link.
